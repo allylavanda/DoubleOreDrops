@@ -1,0 +1,6 @@
+name: DoubleOreDrops
+version: ${project.version}
+main: me.sjaeledyr.doubleoredrops.DoubleOreDrops
+api-version: 1.16
+authors: [ Sjaeledyr ]
+website: https://github.com/sjaeledyr
